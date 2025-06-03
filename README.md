@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dodyakj" alt="dodyakj" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dod_die_" target="blank"><img src="https://img.shields.io/twitter/follow/dod_die_?logo=twitter&style=for-the-badge" alt="dod_die_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0x256yDoD" target="blank"><img src="https://img.shields.io/twitter/follow/0x256yDoD?logo=twitter&style=for-the-badge" alt="0x256yDoD" /></a> </p>
 
 - 🌱 I’m currently learning **Odoo, React Native, Angular, Vue, Ionic**
 
